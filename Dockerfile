@@ -1,4 +1,4 @@
-ROM crazycode/python2
+FROM crazycode/python2
 MAINTAINER crazycode
 
 # Install Node.js
